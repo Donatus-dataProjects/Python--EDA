@@ -22,7 +22,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 using line charts; it displays information as a seres of data points or makers, connected by straight lines.
 country-- Kanto 
 years 6yrs 
-intons per hectare
+in tons per hectare
 
 
 
